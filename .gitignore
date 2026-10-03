@@ -6,8 +6,13 @@ node_modules/
 __pycache__/
 target/
 dist/
+!web/dist/
+!web/dist/.gitkeep
 build/
 *.log
+seatmove.db
+seatmove.db-wal
+seatmove.db-shm
 .claude/
 .cc-workbench/
 轨迹/
